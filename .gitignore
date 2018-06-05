@@ -1,4 +1,4 @@
-.gitignore
+/*/**/.gitignore
 /egghead
 /fcc-react
 /myReact
