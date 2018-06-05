@@ -4,9 +4,10 @@ React Lab Projects ⚛ 📌
 
         0% |🔹🔹🔹🔹|🔹🔹🔹🔹|⬛️⬛️⬛️⬛️|⬛️⬛️⬛️⬛️| 100% 🏁
 
-- Weather App [link](https://www.youtube.com/watch?v=204C9yNeOYI)
-        - grab inputs in form
-        - api fetch
+- 100 React Projects
+  1. Weather App [link](https://www.youtube.com/watch?v=204C9yNeOYI)
+    - grab inputs in form
+    - api fetch
 
-        0% |⬛️⬛️⬛️⬛️|⬛️⬛️⬛️⬛️|⬛️⬛️⬛️⬛️|⬛️⬛️⬛️⬛️| 100% 🏁
+            0% |🔹🔹🔹🔹|🔹🔹🔹🔹|⬛️⬛️⬛️⬛️|⬛️⬛️⬛️⬛️| 100% 🏁
 
