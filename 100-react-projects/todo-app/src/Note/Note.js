@@ -11,8 +11,11 @@ class Note extends Component {
       this.handleRemoveNote = this.handleRemoveNote.bind(this);
     }
 
-  render(props) {
+  handleRemoveNote(id){
+    this.props.removeNote(id);
+  }
 
+  render(props) {
     return (
       <div className="note fade-in">
       <span className="closebtn"
@@ -22,7 +25,6 @@ class Note extends Component {
         <p className="noteContent">{ this.noteContent }</p>
       </div>
     )
-
   }
 }
 

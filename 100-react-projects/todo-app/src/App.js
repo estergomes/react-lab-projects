@@ -69,9 +69,9 @@ class App extends Component {
           {
             this.state.notes.map((note) => {
               return (
-                <Note noteContent={note.noteContent} 
-                noteId={note.id} 
-                key={note.id} 
+                <Note noteContent={note.noteContent}
+                noteId={note.id}
+                key={note.id}
                 removeNote ={this.removeNote}/>
               )
             })

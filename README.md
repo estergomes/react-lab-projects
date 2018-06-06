@@ -1,12 +1,12 @@
-React Lab Projects ⚛ 📌
+# React Lab Projects ⚛ 📌
 
 - Docs [reactjs.org](https://reactjs.org/)
 
         0% |🔹🔹🔹🔹|🔹🔹🔹🔹|⬛️⬛️⬛️⬛️|⬛️⬛️⬛️⬛️| 100% 🏁
 
-- 100 React Projects
+## 100 React Projects
 
-  1. Weather App [link](https://www.youtube.com/watch?v=204C9yNeOYI)
+  **1. Weather App** [link](https://www.youtube.com/watch?v=204C9yNeOYI)
 
     - grab inputs in form
     - api bootstrap
@@ -14,7 +14,9 @@ React Lab Projects ⚛ 📌
 
             0% |🌹🌹🌹🌹|🌹🌹🌹🌹|🌹🌹🌹🌹|🌹🌹🌹🌹| 100% 🏁
 
-  2. To do App [link](https://www.youtube.com/watch?v=-RtJroTMDf4)
+  **2. To do App** [link](https://www.youtube.com/watch?v=-RtJroTMDf4)
 
+    - Dependencies:
+      - firebase
 
-        0% |⬛️⬛️⬛️⬛️|⬛️⬛️⬛️⬛️|⬛️⬛️⬛️⬛️|⬛️⬛️⬛️⬛️| 100% 🏁
+            0% |🍪🍪️🍪🍪️|🍪🍪🍪🍪️|🍪🍪🍪🍪️|🍪🍪🍪🍪️| 100% 🏁
